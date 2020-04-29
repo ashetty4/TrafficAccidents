@@ -13,4 +13,4 @@ and this is the data for traffic accidents in the USA for the years 2016-2019.
 
 The secondary data set I chose to take can be found here https://www.census.gov/newsroom/press-releases/2019/popest-nation.html, this consists of charts of top 10 populated states in the year 2019 and percentage growth. From this dataset I wanted to obtain the actual population of the states in 2019. The dataset values can also be verified with Wikipedia as they are accurate.
 
-
+![Plot1](Plot1.mov)
