@@ -15,6 +15,6 @@ The secondary data set I chose to take can be found here https://www.census.gov/
 
 <video src="https://github.com/ashetty4/TrafficAccidents/blob/master/Plot%201.mp4" width="320" height="200" controls preload></video>
 <video width="320" height="200" controls preload> 
-    <source src="Plot 1.mp4"></source> 
+    <source src="https://github.com/ashetty4/TrafficAccidents/blob/master/Plot%201.mp4"></source> 
     
 </video>
