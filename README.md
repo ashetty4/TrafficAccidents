@@ -18,7 +18,7 @@ The secondary data set I chose to take can be found here https://www.census.gov/
 California has the darkest shade indicating that the number of <b>traffic accidents in California is the most</b>. But let's dig deeper.
 Since most of the medium to light shades are similar due to their values, a bar chart can give us more insights.
 
-![Plot 2](/Plots/Plot 2.png)
+![Plot2](https://github.com/ashetty4/TrafficAccidents/blob/master/Plots/Plot%202.png)
 
 Looking at the bar chart and the geo-map above, it is clear that California has the most number of cases. However, Let's compare it with the population to understand if overall it's normal for California to have high cases or it's just due to its population.
 <br>
@@ -27,7 +27,7 @@ Looking at the bar chart and the geo-map above, it is clear that California has 
 Note:- Different factors can be taken into account like the total number of driver licences issued per state to the number of cases in that state however I decided to take population into account. While the population is not the best factor it can give us an overall insight on the same. I plan on analyzing drivers license in my future analysis.
 <br>
 
-![Plot 3](/Plots/Plot 3.png)
+![Plot 3](https://github.com/ashetty4/TrafficAccidents/blob/master/Plots/Plot%203.png)
 
 
 Surprisingly comparing the population we get to know that <b>South Carolina has many cases compared to its population</b>. Meaning that of the population is taken as a factor then the percentage of South Carolina being affected is way more than the other states. This makes us realize that <b>only taking the number of cases into account will not give the best interpretation. </b>The Map on the right tells us that the highest cases are occurring on the east coast, which is extremely interesting.
@@ -40,9 +40,9 @@ Step 2: adjust x to Ending latitude and y to Ending longitude.
 </b><br>
 What do you see?
 
-![Plot 4a](/Plots/Plot 4a.png)
+![Plot 4a](https://github.com/ashetty4/TrafficAccidents/blob/master/Plots/Plot%204a.png)
 
-![Plot 4b](/Plots/Plot 4b.png)
+![Plot 4b](https://github.com/ashetty4/TrafficAccidents/blob/master/Plots/Plot%204b.png)
 It can be clearly seen that when we adjust the drop-down menu to the starting locations, most of the points on the map turn blue, orange and grey. These are between mid to high level of severity.
 
 But when we adjust the drop-down to the ending locations, most points on the map turn green.
@@ -51,7 +51,7 @@ This implies that the <b>starting locations of the accidents so far have a highe
 Exploring more on the severity, lets see which states are top 5 states for each level of severities.
 
 
-![](/Plots/Plot 5.png)
+![](https://github.com/ashetty4/TrafficAccidents/blob/master/Plots/Plot%205.png)
 
 It's not surprising that most of the states are the same throughout, but it was fascinating to see that Severity 4 has Florida with the most number of cases. This indicates that even though California has the most number of traffic accident cases, not all of them are from severity 4.
  
@@ -64,12 +64,12 @@ Quiet the opposite is Georgia since it's in the top states with severity level 3
 The below graph can be arranged into a 6-month span, 1 year and throughout the years span to get a better understanding. Hovering on the data points gives more details.
 Just by looking at the graph and adjusting the parameters, are there any observations? Let's find out!
 
-![](/Plots/Plot 6.png)
+![](https://github.com/ashetty4/TrafficAccidents/blob/master/Plots/Plot%206.png)
 
 Most of the data point seen lie between <b>60 to 85</b>. Most of the low temperatures are from the month of January each year which makes sense since a lot of states experience heavy snowfall during the month of January. And the months June and July have high temperatures because of summer. But extreme high and low temperatures have scare points and most of the data points are between 60 to 85.
 
 Another interesting observation is that the point gets denser over the years. In 2016 there are less scare points compared to 2019. Does this mean that the number of cases increases over time? Let's find out
-![](/Plots/Plot 7.png)
+![](https://github.com/ashetty4/TrafficAccidents/blob/master/Plots/Plot%207.png)
 
 We can see that the <b>cases with level 2 severity are way higher than the other levels. </b><br>
 Followed by severity 3.<br>
@@ -81,7 +81,7 @@ The dataset provides the values for each of the independent accidents.
 
 The below graph describes all these factors.
 
-![](/Plots/Plot 8.png)
+![](https://github.com/ashetty4/TrafficAccidents/blob/master/Plots/Plot%208.png)
 
 <b>Traffic Signal :</b>
 
@@ -102,14 +102,14 @@ This isn't a very good sign since the heavy false value indicates that there wer
 
 It is clear from the graph below that <b>Visibility is not one of the factors influencing traffic accidents</b>, As we can see that most accidents had the highest visibility(10). Whereas lower visibility values have lesser accidents. 
 
-![](/Plots/Plot 9.png)
+![](https://github.com/ashetty4/TrafficAccidents/blob/master/Plots/Plot%209.png)
 
 
 <h4>References:</h4>
 <br>
 The data from this dataset were fetched from the below sources, while there was no need to plot a bar chart for it, I decided to do it anyway since we are working with visualizations.
 
-![](/Plots/Plot 10.png)
+![](https://github.com/ashetty4/TrafficAccidents/blob/master/Plots/Plot%2010.png)
 
 
 
