@@ -16,18 +16,18 @@ The secondary data set I chose to take can be found here https://www.census.gov/
 ![](/Plots/Plot1.png)
 
 California has the darkest shade indicating that the number of <b>traffic accidents in California is the most</b>. But let's dig deeper.
-Since most of the medium to light shades are similar due to their values, a bar chart can give us more insights
+Since most of the medium to light shades are similar due to their values, a bar chart can give us more insights.
 
-![](/Plots/Plot 2.png)
+![Plot 2](/Plots/Plot 2.png)
 
 Looking at the bar chart and the geo-map above, it is clear that California has the most number of cases. However, Let's compare it with the population to understand if overall it's normal for California to have high cases or it's just due to its population.
 <br>
 <b>I decided to compare the top 5 states having the most number of cases.</b><br>
 
 Note:- Different factors can be taken into account like the total number of driver licences issued per state to the number of cases in that state however I decided to take population into account. While the population is not the best factor it can give us an overall insight on the same. I plan on analyzing drivers license in my future analysis.
+<br>
 
-
-![](/Plots/Plot 3.png)
+![Plot 3](/Plots/Plot 3.png)
 
 
 Surprisingly comparing the population we get to know that <b>South Carolina has many cases compared to its population</b>. Meaning that of the population is taken as a factor then the percentage of South Carolina being affected is way more than the other states. This makes us realize that <b>only taking the number of cases into account will not give the best interpretation. </b>The Map on the right tells us that the highest cases are occurring on the east coast, which is extremely interesting.
@@ -40,8 +40,9 @@ Step 2: adjust x to Ending latitude and y to Ending longitude.
 </b><br>
 What do you see?
 
-![](/Plots/Plot 4.png)
+![Plot 4a](/Plots/Plot 4a.png)
 
+![Plot 4b](/Plots/Plot 4b.png)
 It can be clearly seen that when we adjust the drop-down menu to the starting locations, most of the points on the map turn blue, orange and grey. These are between mid to high level of severity.
 
 But when we adjust the drop-down to the ending locations, most points on the map turn green.
