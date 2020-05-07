@@ -10,13 +10,6 @@ dependencies:
   - plotly
   - seaborn
   - bqplot
-  - matplotlib.pyplot
-  - datetime
-  - plotly.graph_objects
-  - pyplot
-  - plotly.subplots
-  - plotly.graph_objects
-  - matplotlib.colors
   - seaborn
-  - plotly.express
+
   
